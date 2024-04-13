@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋, I'm Kaila Nesbit.
+
+I'm a programmer and designer.
 
 <!--
 **Kaila20/Kaila20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
