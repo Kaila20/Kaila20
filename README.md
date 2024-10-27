@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaila Nesbit</h1>
 <h3 align="center">I'm a programmer and designer.</h3>
 
-- **Hello, I am Kaila Nesbit, currently pursuing a Bachelor of Science in Interactive Design with a Minor in Computer Science at Kennesaw State University. With proficiency across multiple programming languages and design knowledge, my focus lies in UI/UX design and software development. I am actively seeking opportunities to apply my expertise to innovative projects.**
+- **Hello, I am Kaila, currently pursuing a Bachelor of Science in Interactive Design with a Minor in Computer Science at Kennesaw State University. With proficiency across multiple programming languages and design knowledge, my focus lies in UI/UX design and software development. I am actively seeking opportunities to apply my expertise to innovative projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
